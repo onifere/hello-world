@@ -1,2 +1,4 @@
 # hello-world
-just another one
+
+Salut tout le monde ,ceci est une initiation à l'utilisation de Github
+allons-y tous
